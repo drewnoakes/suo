@@ -13,6 +13,20 @@
     <PackageOutputPath>./nupkg</PackageOutputPath>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <Version>1.0.1</Version>
+    <Authors>Drew Noakes</Authors>
+    <Description>View contents of Visual Studio SUO files</Description>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <PackageTags>suo</PackageTags>
+    <PackageProjectUrl>https://github.com/drewnoakes/suo</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/drewnoakes/suo.git</RepositoryUrl>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <IncludeSymbols>true</IncludeSymbols>
+    <IncludeSource>false</IncludeSource>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+  </PropertyGroup>
+
   <ItemGroup>
     <PackageReference Include="OpenMcdf" Version="2.2.1.4" />
     <PackageReference Include="HexDump" Version="1.0.0" />

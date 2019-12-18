@@ -9,6 +9,7 @@ _ReSharper*/
 *.ReSharper
 *.DotSettings.user
 *.nupkg
+*.snupkg
 packages/
 .vs
 launchSettings.json

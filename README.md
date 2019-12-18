@@ -5,7 +5,7 @@ A dotnet global tool for viewing the contents of Visual Studio user option (`.su
 # Installation
 
 ```text
-dotnet install --global suo
+dotnet tool install --global suo
 ```
 
 # Usage

@@ -1,0 +1,15 @@
+Debug/
+Release/
+bin/
+obj/
+_ReSharper*/
+.idea/
+*.suo
+*.user
+*.ReSharper
+*.DotSettings.user
+*.nupkg
+packages/
+.vs
+launchSettings.json
+

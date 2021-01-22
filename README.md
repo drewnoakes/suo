@@ -1,5 +1,8 @@
 # suo
 
+![Nuget version](https://img.shields.io/nuget/v/suo)
+![Nuget download count](https://img.shields.io/nuget/dt/suo)
+
 A dotnet global tool for viewing the contents of Visual Studio user option (`.suo`) files.
 
 # Installation
